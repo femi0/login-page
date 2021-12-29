@@ -1,0 +1,32 @@
+body{
+    background: whitesmoke;
+}
+
+.signin-container{
+    background: white;
+    width: 40vw;
+    justify-content: space-between;
+     margin: 200px;
+    margin-top: 60px;
+    height: 40vw;
+    box-shadow: 0 0 1.4px;
+}
+
+
+.sign-in{
+    width: 35vw;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin: 30px auto;
+}
+
+
+.span{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-header{
+    margin-top: 80px;
+}
